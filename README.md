@@ -7,6 +7,7 @@
 ## System
 - [Memtest86+](https://memtest.org/): Memory tester (well, not actually Linux, but, hey, you do not want to run a computer with defective memory!).
 - [Corectrl](https://gitlab.com/corectrl/corectrl): Configure your hardware (CPU and GPU) operation profile depending on currently running applications.
+- [Clonezilla](https://clonezilla.org/): Partition and disk imaging and cloning program.
 - [faultstat](https://github.com/ColinIanKing/faultstat/tree/master): Report the page fault activity of processes running on a system (like top).
 - [pagemon](https://github.com/ColinIanKing/pagemon): Interactive memory/page monitoring tool allowing one to browse the memory map of an active running process.
 - [Powerstat](https://github.com/ColinIanKing/powerstat): Measure the power consumption of a computer using the ACPI battery information.
